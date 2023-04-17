@@ -2,23 +2,24 @@ owner: MaratangLife
 repo: status
 
 sites:
-  - name: 마라탕.인생 메인
+  - name: Maratang.Life Main
     url: https://maratang.life/about
-  - name: 마라탕.인생 API
+  - name: Maratang.Life API
     url: https://maratang.life/api/v2/instance
     __dangerous__body_down_if_text_missing: '"version"'
-  - name: 마라탕.인생 스트리밍
+  - name: Maratang.Life Streaming
     url: https://maratang.life/api/v1/streaming/health
     __dangerous__body_down_if_text_missing: 'OK'
-  - name: 마라탕.인생 유저
+  - name: Maratang.Life User
     url: https://maratang.life/api/v1/accounts/lookup?acct=support
     __dangerous__body_down_if_text_missing: '109325599682453662'
-  - name: 마라탕.인생 스토리지
-    url: https://r2.maratang.life/check.txt
-    __dangerous__body_down_if_text_missing: 'OK'
-  - name: 마라탕.인생 ActivityPub
+  - name: Maratang.Life ActivityPub
     url: https://maratang.life/.well-known/webfinger?resource=acct:support@maratang.life
     __dangerous__body_down_if_text_missing: 'application/activity+json'
+  - name: Maratang.Life Storage
+    url: https://r2.maratang.life/check.txt
+    icon: https://maratang.life/favicon.ico
+    __dangerous__body_down_if_text_missing: 'OK'
 
 status-website:
   cname: status.maratang.life
