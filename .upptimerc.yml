@@ -38,15 +38,15 @@ i18n:
   activeIncidents: 진행중인 장애
   allSystemsOperational: 모든 시스템 정상
   incidentReport: "사고 번호 #$NUMBER 보고서 →"
-  activeIncidentSummary: 발생일: $DATE / 댓글 $POSTS 개
+  activeIncidentSummary: "발생일: $DATE / 댓글 $POSTS 개"
   incidentTitle: 사고 번호 $NUMBER 상세
   incidentDetails: 사고 상세
   incidentFixed: 해결됨
   incidentOngoing: 처리중
-  incidentOpenedAt: 발생일: 
-  incidentClosedAt: 처리일: 
+  incidentOpenedAt: "발생일: "
+  incidentClosedAt: "처리일: "
   incidentViewOnGitHub: Github에서 확인하기
-  incidentCommentSummary: 작성일: $DATE / 작성자: $AUTHOR
+  incidentCommentSummary: "작성일: $DATE / 작성자: $AUTHOR"
   incidentBack: ← 사고 목록으로 돌아가기
   pastIncidents: 과거 사고
   pastIncidentsResolved: $MINUTES 분만에 해결됨 / 댓글 $POSTS 개
@@ -70,11 +70,11 @@ i18n:
   errorHome: 메인 페이지로 이동
   pastScheduledMaintenance: 지난 계획된 유지보수
   scheduledMaintenance: 계획된 유지보수
-  scheduledMaintenanceSummaryStarted: 시작됨: $DATE / $DURATION 분동안 진행 예정
-  scheduledMaintenanceSummaryStarts: 시작 예정: $DATE / $DURATION 분동안 진행 예정
-  startedAt: 시작됨: 
-  startsAt: 시작 예정: 
-  duration: 진행 예정: 
-  durationMin: $DURATION 분
+  scheduledMaintenanceSummaryStarted: "시작됨: $DATE / $DURATION 분동안 진행 예정"
+  scheduledMaintenanceSummaryStarts: "시작 예정: $DATE / $DURATION 분동안 진행 예정"
+  startedAt: "시작됨: "
+  startsAt: "시작 예정: "
+  duration: "진행 예정: "
+  durationMin: "$DURATION 분"
   incidentCompleted: 완료됨
   incidentScheduled: 계획됨
