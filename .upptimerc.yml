@@ -1,31 +1,80 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: MaratangLife
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 마라탕.인생 메인
+    url: https://maratang.life/about
+  - name: 마라탕.인생 API
+    url: https://maratang.life/api/v2/instance
+    __dangerous__body_down_if_text_missing: '"version"'
+  - name: 마라탕.인생 스트리밍
+    url: https://maratang.life/api/v1/streaming/health
+    __dangerous__body_down_if_text_missing: 'OK'
+  - name: 마라탕.인생 유저
+    url: https://maratang.life/api/v1/accounts/lookup?acct=support
+    __dangerous__body_down_if_text_missing: '109325599682453662'
+  - name: 마라탕.인생 스토리지
+    url: https://r2.maratang.life/check.txt
+    __dangerous__body_down_if_text_missing: 'OK'
+  - name: 마라탕.인생 ActivityPub
+    url: https://maratang.life/.well-known/webfinger?resource=acct:support@maratang.life
+    __dangerous__body_down_if_text_missing: 'application/activity+json'
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.maratang.life
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 마라탕.인생 서버 상태
+  introTitle: "마라탕.인생 서버 상태="
+  introMessage: 마라탕.인생 서버 상태를 실시간으로 확인하실 수 있습니다.
   navbar:
-    - title: Status
+    - title: 상태 페이지
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 마라탕.인생
+      href: https://maratang.life/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+robotsText: "User-agent: * \n Disallow: /"
+user-agent: MaratangLife-Uptime-Checker/1.0.230417.0
+i18n:
+  activeIncidents: 진행중인 장애
+  allSystemsOperational: 모든 시스템 정상
+  incidentReport: "사고 번호 #$NUMBER 보고서 →"
+  activeIncidentSummary: 발생일: $DATE / 댓글 $POSTS 개
+  incidentTitle: 사고 번호 $NUMBER 상세
+  incidentDetails: 사고 상세
+  incidentFixed: 해결됨
+  incidentOngoing: 처리중
+  incidentOpenedAt: 발생일: 
+  incidentClosedAt: 처리일: 
+  incidentViewOnGitHub: Github에서 확인하기
+  incidentCommentSummary: 작성일: $DATE / 작성자: $AUTHOR
+  incidentBack: ← 사고 목록으로 돌아가기
+  pastIncidents: 과거 사고
+  pastIncidentsResolved: $MINUTES 분만에 해결됨 / 댓글 $POSTS 개
+  liveStatus: 실시간 상태
+  overallUptime: "전체 업타임: $UPTIME"
+  overallUptimeTitle: 전체 업타임
+  averageResponseTime: "평균 응답 속도: $TIMEms"
+  averageResponseTimeTitle: 응답 속도
+  sevelDayResponseTime: 일주일 응답 속도
+  responseTimeMs: 응답 속도 (ms)
+  up: 정상
+  down: 다운됨
+  degraded: 성능 저하
+  ms: ms
+  loading: 로딩중
+  navGitHub: GitHub
+  footer: 이 페이지는 [오픈 소스]($REPO)이며 [Upptime](https://upptime.js.org)으로 구동됩니다
+  errorTitle: 오류 발생
+  errorIntro: 최신 서버 상태를 가져오는 중 오류가 발생했습니다.
+  errorText: 잠시 후 다시 시도해 주세요.
+  errorHome: 메인 페이지로 이동
+  pastScheduledMaintenance: 지난 계획된 유지보수
+  scheduledMaintenance: 계획된 유지보수
+  scheduledMaintenanceSummaryStarted: 시작됨: $DATE / $DURATION 분동안 진행 예정
+  scheduledMaintenanceSummaryStarts: 시작 예정: $DATE / $DURATION 분동안 진행 예정
+  startedAt: 시작됨: 
+  startsAt: 시작 예정: 
+  duration: 진행 예정: 
+  durationMin: $DURATION 분
+  incidentCompleted: 완료됨
+  incidentScheduled: 계획됨
