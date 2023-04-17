@@ -24,7 +24,7 @@ status-website:
   cname: status.maratang.life
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 마라탕.인생 서버 상태
-  introTitle: "마라탕.인생 서버 상태="
+  introTitle: "마라탕.인생 서버 상태"
   introMessage: 마라탕.인생 서버 상태를 실시간으로 확인하실 수 있습니다.
   navbar:
     - title: 상태 페이지
