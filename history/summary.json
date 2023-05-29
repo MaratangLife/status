@@ -4,9 +4,9 @@
     "url": "https://maratang.life/about",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 608,
     "timeMonth": 669,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-29": 0
+    }
   },
   {
     "name": "Maratang.Life API",
@@ -58,7 +60,7 @@
     "url": "https://maratang.life/api/v1/accounts/lookup?acct=support",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-user",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 169,
     "timeMonth": 167,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-29": 0
+    }
   },
   {
     "name": "Maratang.Life ActivityPub",
