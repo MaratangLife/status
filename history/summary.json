@@ -6,8 +6,8 @@
     "slug": "maratang-life-main",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
@@ -16,7 +16,7 @@
     "timeMonth": 657,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 1
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://maratang.life/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,26 +35,28 @@
     "timeWeek": 242,
     "timeMonth": 185,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Maratang.Life Streaming",
     "url": "https://maratang.life/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 318,
-    "timeWeek": 232,
-    "timeMonth": 173,
-    "timeYear": 155,
+    "time": 158,
+    "timeDay": 330,
+    "timeWeek": 245,
+    "timeMonth": 179,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 1
     }
   },
   {
