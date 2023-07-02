@@ -4,9 +4,9 @@
     "url": "https://maratang.life/about",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 598,
     "timeMonth": 652,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Maratang.Life API",
@@ -40,37 +42,39 @@
     "url": "https://maratang.life/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 134,
-    "timeWeek": 132,
-    "timeMonth": 138,
-    "timeYear": 140,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Maratang.Life User",
-    "url": "https://maratang.life/api/v1/accounts/lookup?acct=support",
-    "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
-    "slug": "maratang-life-user",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 154,
-    "timeWeek": 160,
-    "timeMonth": 165,
-    "timeYear": 172,
+    "time": 144,
+    "timeDay": 312,
+    "timeWeek": 177,
+    "timeMonth": 149,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2023-07-02": 0
+    }
+  },
+  {
+    "name": "Maratang.Life User",
+    "url": "https://maratang.life/api/v1/accounts/lookup?acct=support",
+    "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
+    "slug": "maratang-life-user",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
+    "time": 177,
+    "timeDay": 374,
+    "timeWeek": 214,
+    "timeMonth": 178,
+    "timeYear": 177,
+    "dailyMinutesDown": {
+      "2023-07-02": 5
     }
   },
   {
