@@ -4,19 +4,19 @@
     "url": "https://maratang.life/about",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-main",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 780,
-    "timeWeek": 643,
-    "timeMonth": 662,
-    "timeYear": 692,
+    "time": 691,
+    "timeDay": 720,
+    "timeWeek": 639,
+    "timeMonth": 660,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://maratang.life/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 137,
-    "timeWeek": 158,
-    "timeMonth": 159,
-    "timeYear": 164,
+    "time": 167,
+    "timeDay": 274,
+    "timeWeek": 189,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 5
     }
   },
   {
@@ -44,18 +44,20 @@
     "url": "https://maratang.life/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 253,
-    "timeWeek": 172,
-    "timeMonth": 149,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "time": 147,
+    "timeDay": 291,
+    "timeWeek": 195,
+    "timeMonth": 156,
+    "timeYear": 147,
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Maratang.Life User",
@@ -64,9 +66,9 @@
     "slug": "maratang-life-user",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 304,
@@ -74,7 +76,7 @@
     "timeMonth": 178,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 5
     }
   },
   {
@@ -84,9 +86,9 @@
     "slug": "maratang-life-activity-pub",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 132,
@@ -94,7 +96,7 @@
     "timeMonth": 136,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 5
     }
   },
   {
