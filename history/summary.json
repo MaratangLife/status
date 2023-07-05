@@ -40,19 +40,19 @@
     "url": "https://maratang.life/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 137,
-    "timeWeek": 244,
-    "timeMonth": 184,
+    "timeDay": 123,
+    "timeWeek": 236,
+    "timeMonth": 182,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-07-05": 0
+      "2023-07-05": 5
     }
   },
   {
