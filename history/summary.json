@@ -11,9 +11,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
     "time": 684,
-    "timeDay": 649,
-    "timeWeek": 711,
-    "timeMonth": 659,
+    "timeDay": 692,
+    "timeWeek": 717,
+    "timeMonth": 661,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2023-07-18": 78
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
-    "time": 177,
-    "timeDay": 146,
-    "timeWeek": 177,
-    "timeMonth": 198,
-    "timeYear": 177,
+    "time": 178,
+    "timeDay": 271,
+    "timeWeek": 193,
+    "timeMonth": 201,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2023-07-18": 78
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
     "time": 156,
-    "timeDay": 141,
-    "timeWeek": 148,
+    "timeDay": 162,
+    "timeWeek": 149,
     "timeMonth": 178,
     "timeYear": 156,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
-    "time": 189,
-    "timeDay": 176,
-    "timeWeek": 188,
-    "timeMonth": 214,
-    "timeYear": 189,
+    "time": 190,
+    "timeDay": 207,
+    "timeWeek": 191,
+    "timeMonth": 216,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2023-07-18": 78
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
     "time": 145,
-    "timeDay": 139,
-    "timeWeek": 150,
-    "timeMonth": 154,
+    "timeDay": 159,
+    "timeWeek": 152,
+    "timeMonth": 155,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2023-07-18": 78
@@ -105,18 +105,16 @@
     "icon": "https://maratang.life/favicon.ico",
     "slug": "maratang-life-storage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 619,
-    "timeDay": 749,
-    "timeWeek": 789,
-    "timeMonth": 662,
-    "timeYear": 619,
-    "dailyMinutesDown": {
-      "2023-07-19": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 620,
+    "timeDay": 787,
+    "timeWeek": 808,
+    "timeMonth": 666,
+    "timeYear": 620,
+    "dailyMinutesDown": {}
   }
 ]
