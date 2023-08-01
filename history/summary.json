@@ -105,19 +105,19 @@
     "url": "https://r2.maratang.life/check.txt",
     "icon": "https://maratang.life/favicon.ico",
     "slug": "maratang-life-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 629,
-    "timeWeek": 1981,
-    "timeMonth": 1115,
-    "timeYear": 765,
+    "time": 784,
+    "timeDay": 1184,
+    "timeWeek": 2053,
+    "timeMonth": 1162,
+    "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-08-01": 0
+      "2023-08-01": 3
     }
   }
 ]
