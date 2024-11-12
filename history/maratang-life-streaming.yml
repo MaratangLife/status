@@ -1,7 +1,7 @@
 url: https://maratang.life/api/v1/streaming/health
-status: down
+status: up
 code: 200
-responseTime: 194
-lastUpdated: 2024-11-12T04:20:49.256Z
+responseTime: 149
+lastUpdated: 2024-11-12T05:10:50.310Z
 startTime: 2023-04-17T10:00:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
