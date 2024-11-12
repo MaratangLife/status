@@ -29,8 +29,8 @@
     "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "95.34%",
+    "uptimeWeek": "79.84%",
+    "uptimeMonth": "95.30%",
     "uptimeYear": "99.40%",
     "time": 243,
     "timeDay": 247,
@@ -38,7 +38,7 @@
     "timeMonth": 400,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-11-12": 1138,
+      "2024-11-12": 1158,
       "2024-11-11": 875,
       "2024-10-22": 28,
       "2024-05-17": 104
@@ -49,16 +49,16 @@
     "url": "https://maratang.life/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "45.16%",
+    "uptimeDay": "45.15%",
     "uptimeWeek": "89.79%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.59%",
     "time": 155,
-    "timeDay": 161,
-    "timeWeek": 173,
-    "timeMonth": 177,
+    "timeDay": 160,
+    "timeWeek": 172,
+    "timeMonth": 176,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-11-12": 638,
@@ -74,10 +74,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-user",
     "status": "down",
-    "uptime": "99.40%",
+    "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "95.40%",
+    "uptimeWeek": "79.84%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "99.41%",
     "time": 261,
     "timeDay": 227,
@@ -85,7 +85,7 @@
     "timeMonth": 446,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-11-12": 1138,
+      "2024-11-12": 1158,
       "2024-11-11": 874,
       "2024-05-17": 103
     }
@@ -98,8 +98,8 @@
     "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "95.40%",
+    "uptimeWeek": "79.84%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "99.41%",
     "time": 145,
     "timeDay": 130,
@@ -107,7 +107,7 @@
     "timeMonth": 156,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-11-12": 1138,
+      "2024-11-12": 1158,
       "2024-11-11": 874,
       "2024-05-17": 102
     }
@@ -120,8 +120,8 @@
     "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "62.22%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "97.98%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.63%",
     "time": 687,
     "timeDay": 504,
@@ -129,7 +129,7 @@
     "timeMonth": 540,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-11-12": 426,
+      "2024-11-12": 446,
       "2024-11-11": 458,
       "2024-02-28": 45
     }
