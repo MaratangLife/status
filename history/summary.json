@@ -29,8 +29,8 @@
     "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.23%",
-    "uptimeMonth": "95.16%",
+    "uptimeWeek": "79.09%",
+    "uptimeMonth": "95.12%",
     "uptimeYear": "99.40%",
     "time": 243,
     "timeDay": 247,
@@ -38,7 +38,7 @@
     "timeMonth": 400,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-11-12": 1219,
+      "2024-11-12": 1233,
       "2024-11-11": 875,
       "2024-10-22": 28,
       "2024-05-17": 104
@@ -49,16 +49,16 @@
     "url": "https://maratang.life/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "43.03%",
-    "uptimeWeek": "89.19%",
+    "uptimeDay": "43.64%",
+    "uptimeWeek": "89.18%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "99.59%",
     "time": 155,
-    "timeDay": 160,
-    "timeWeek": 172,
-    "timeMonth": 176,
+    "timeDay": 161,
+    "timeWeek": 171,
+    "timeMonth": 175,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2024-11-12": 699,
@@ -76,8 +76,8 @@
     "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.24%",
-    "uptimeMonth": "95.22%",
+    "uptimeWeek": "79.09%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "99.41%",
     "time": 261,
     "timeDay": 227,
@@ -85,7 +85,7 @@
     "timeMonth": 446,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-11-12": 1219,
+      "2024-11-12": 1233,
       "2024-11-11": 874,
       "2024-05-17": 103
     }
@@ -98,8 +98,8 @@
     "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.24%",
-    "uptimeMonth": "95.22%",
+    "uptimeWeek": "79.09%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "99.41%",
     "time": 145,
     "timeDay": 130,
@@ -107,7 +107,7 @@
     "timeMonth": 156,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-11-12": 1219,
+      "2024-11-12": 1234,
       "2024-11-11": 874,
       "2024-05-17": 102
     }
@@ -118,10 +118,10 @@
     "icon": "https://maratang.life/favicon.ico",
     "slug": "maratang-life-storage",
     "status": "down",
-    "uptime": "99.55%",
+    "uptime": "99.54%",
     "uptimeDay": "62.51%",
-    "uptimeWeek": "90.92%",
-    "uptimeMonth": "97.91%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "99.64%",
     "time": 687,
     "timeDay": 504,
@@ -129,7 +129,7 @@
     "timeMonth": 537,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-11-12": 458,
+      "2024-11-12": 473,
       "2024-11-11": 458,
       "2024-02-28": 45
     }
