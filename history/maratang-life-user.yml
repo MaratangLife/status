@@ -1,7 +1,7 @@
 url: https://maratang.life/api/v1/accounts/lookup?acct=support
 status: up
 code: 200
-responseTime: 256
-lastUpdated: 2025-01-02T23:10:45.461Z
+responseTime: 331
+lastUpdated: 2025-01-03T23:10:34.551Z
 startTime: 2023-04-17T10:00:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
