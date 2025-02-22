@@ -1,7 +1,7 @@
 url: https://maratang.life/.well-known/webfinger?resource=acct:support@maratang.life
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-22T05:52:15.872Z
+status: up
+code: 200
+responseTime: 326
+lastUpdated: 2025-02-22T15:41:52.515Z
 startTime: 2023-04-17T10:00:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
