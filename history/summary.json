@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-main",
     "status": "up",
-    "uptime": "80.18%",
+    "uptime": "80.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "45.31%",
     "time": 1229,
-    "timeDay": 947,
-    "timeWeek": 1078,
-    "timeMonth": 1287,
+    "timeDay": 888,
+    "timeWeek": 980,
+    "timeMonth": 1272,
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-11-18": 44,
@@ -232,8 +232,7 @@
       "2025-01-29": 232,
       "2025-01-28": 1440,
       "2025-01-27": 874,
-      "2025-01-23": 311,
-      "2025-01-22": 566
+      "2025-01-23": 311
     }
   },
   {
@@ -242,16 +241,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-api",
     "status": "up",
-    "uptime": "79.58%",
+    "uptime": "79.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "44.68%",
     "time": 601,
-    "timeDay": 160,
-    "timeWeek": 493,
-    "timeMonth": 671,
-    "timeYear": 712,
+    "timeDay": 116,
+    "timeWeek": 427,
+    "timeMonth": 655,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2025-11-18": 44,
       "2025-11-16": 358,
@@ -470,8 +469,7 @@
       "2025-01-29": 232,
       "2025-01-28": 1440,
       "2025-01-27": 874,
-      "2025-01-23": 311,
-      "2025-01-22": 565
+      "2025-01-23": 311
     }
   },
   {
@@ -480,15 +478,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
     "status": "up",
-    "uptime": "75.63%",
+    "uptime": "75.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "34.11%",
     "time": 333,
-    "timeDay": 183,
+    "timeDay": 120,
     "timeWeek": 169,
-    "timeMonth": 199,
+    "timeMonth": 197,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2025-11-18": 44,
@@ -746,8 +744,7 @@
       "2025-01-29": 232,
       "2025-01-28": 1440,
       "2025-01-27": 873,
-      "2025-01-23": 311,
-      "2025-01-22": 565
+      "2025-01-23": 311
     }
   },
   {
@@ -756,16 +753,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-user",
     "status": "up",
-    "uptime": "79.58%",
+    "uptime": "79.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "44.68%",
-    "time": 554,
-    "timeDay": 219,
-    "timeWeek": 235,
-    "timeMonth": 379,
-    "timeYear": 627,
+    "time": 553,
+    "timeDay": 176,
+    "timeWeek": 231,
+    "timeMonth": 377,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2025-11-18": 44,
       "2025-11-16": 358,
@@ -984,8 +981,7 @@
       "2025-01-29": 232,
       "2025-01-28": 1440,
       "2025-01-27": 873,
-      "2025-01-23": 311,
-      "2025-01-22": 564
+      "2025-01-23": 311
     }
   },
   {
@@ -994,15 +990,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-activity-pub",
     "status": "up",
-    "uptime": "79.58%",
+    "uptime": "79.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "44.68%",
     "time": 380,
-    "timeDay": 160,
-    "timeWeek": 163,
-    "timeMonth": 162,
+    "timeDay": 127,
+    "timeWeek": 164,
+    "timeMonth": 161,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2025-11-18": 44,
@@ -1222,8 +1218,7 @@
       "2025-01-29": 232,
       "2025-01-28": 1440,
       "2025-01-27": 872,
-      "2025-01-23": 311,
-      "2025-01-22": 564
+      "2025-01-23": 311
     }
   },
   {
@@ -1237,10 +1232,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
-    "time": 518,
-    "timeDay": 685,
-    "timeWeek": 451,
-    "timeMonth": 435,
+    "time": 517,
+    "timeDay": 494,
+    "timeWeek": 461,
+    "timeMonth": 439,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2025-11-18": 46,
