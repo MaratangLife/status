@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-main",
     "status": "up",
-    "uptime": "81.39%",
+    "uptime": "81.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "55.81%",
-    "time": 1557,
-    "timeDay": 769,
-    "timeWeek": 1029,
-    "timeMonth": 1501,
-    "timeYear": 1726,
+    "uptimeYear": "56.09%",
+    "time": 1559,
+    "timeDay": 1400,
+    "timeWeek": 992,
+    "timeMonth": 1525,
+    "timeYear": 1724,
     "dailyMinutesDown": {
       "2026-03-25": 55,
       "2026-02-14": 528,
@@ -183,8 +183,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 874,
-      "2025-04-16": 858,
-      "2025-04-15": 1440
+      "2025-04-16": 858
     }
   },
   {
@@ -193,16 +192,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-api",
     "status": "up",
-    "uptime": "80.83%",
+    "uptime": "80.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "55.19%",
+    "uptimeYear": "55.46%",
     "time": 906,
-    "timeDay": 314,
-    "timeWeek": 445,
-    "timeMonth": 941,
-    "timeYear": 1078,
+    "timeDay": 305,
+    "timeWeek": 420,
+    "timeMonth": 939,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2026-03-25": 54,
       "2026-02-14": 528,
@@ -372,8 +371,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 874,
-      "2025-04-16": 858,
-      "2025-04-15": 1440
+      "2025-04-16": 858
     }
   },
   {
@@ -382,16 +380,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-streaming",
     "status": "up",
-    "uptime": "77.19%",
+    "uptime": "77.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "44.61%",
-    "time": 722,
-    "timeDay": 174,
-    "timeWeek": 158,
-    "timeMonth": 769,
-    "timeYear": 806,
+    "uptimeYear": "44.88%",
+    "time": 723,
+    "timeDay": 193,
+    "timeWeek": 168,
+    "timeMonth": 771,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2026-03-25": 53,
       "2026-02-14": 528,
@@ -599,8 +597,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -609,16 +606,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-user",
     "status": "up",
-    "uptime": "80.83%",
+    "uptime": "80.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "55.18%",
-    "time": 819,
-    "timeDay": 222,
-    "timeWeek": 287,
+    "uptimeYear": "55.45%",
+    "time": 818,
+    "timeDay": 186,
+    "timeWeek": 286,
     "timeMonth": 849,
-    "timeYear": 966,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2026-03-25": 52,
       "2026-02-14": 528,
@@ -788,8 +785,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 873,
-      "2025-04-16": 858,
-      "2025-04-15": 1440
+      "2025-04-16": 858
     }
   },
   {
@@ -798,16 +794,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maratang.life.ico",
     "slug": "maratang-life-activity-pub",
     "status": "up",
-    "uptime": "80.84%",
+    "uptime": "80.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "55.19%",
+    "uptimeYear": "55.46%",
     "time": 689,
-    "timeDay": 158,
-    "timeWeek": 157,
-    "timeMonth": 739,
-    "timeYear": 849,
+    "timeDay": 143,
+    "timeWeek": 160,
+    "timeMonth": 740,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2026-03-25": 51,
       "2026-02-14": 528,
@@ -977,8 +973,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 872,
-      "2025-04-16": 858,
-      "2025-04-15": 1440
+      "2025-04-16": 858
     }
   },
   {
@@ -992,9 +987,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 509,
-    "timeDay": 351,
-    "timeWeek": 374,
+    "time": 508,
+    "timeDay": 271,
+    "timeWeek": 352,
     "timeMonth": 422,
     "timeYear": 507,
     "dailyMinutesDown": {
