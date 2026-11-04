@@ -1,7 +1,7 @@
 url: https://maratang.life/api/v2/instance
-status: up
-code: 200
-responseTime: 664
-lastUpdated: 2026-11-04T02:50:20.164Z
+status: down
+code: 410
+responseTime: 353
+lastUpdated: 2026-11-04T08:03:13.087Z
 startTime: 2023-04-17T10:00:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
