@@ -1,7 +1,7 @@
 url: https://maratang.life/api/v1/accounts/lookup?acct=support
 status: down
-code: 410
-responseTime: 826
-lastUpdated: 2026-11-11T02:26:57.687Z
+code: 0
+responseTime: 0
+lastUpdated: 2026-11-12T03:30:47.656Z
 startTime: 2023-04-17T10:00:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
